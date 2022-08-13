@@ -38,4 +38,6 @@ openAPI : 백엔드 데이터를 가져와서 처리함
 <a href="포폴링크">
 
 # 사용한 링크
+참고 사이트 : http://ipet.co.kr/
 animate 라이브러리 : http://animate.style/
+icon 라이브러리 : https://boxicons.com/
